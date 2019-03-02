@@ -3146,6 +3146,7 @@
 			text-transform: none;
 			font-weight: normal;
 			padding: 0;
+			height:90px;
 		}
 
 			#header .logo:hover {
