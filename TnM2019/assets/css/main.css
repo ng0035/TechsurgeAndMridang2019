@@ -226,6 +226,7 @@
 
 	.row > * {
 		float: left;
+		
 		-moz-box-sizing: border-box;
 		-webkit-box-sizing: border-box;
 		box-sizing: border-box;
@@ -3961,3 +3962,12 @@
 			}
 
 		}
+
+.team{
+	padding: 20px 	
+}
+.img-circle{
+	height: 20%;
+	widows: 20%;
+	border-radius: 100px;
+}
